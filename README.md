@@ -19,6 +19,7 @@
   | _1.py_ |create my game surfance，game loop and darwing.|
   | _2.py_ |blit text,font,sound,and,image objects.     |  
   | _3.py_ |getting user keyboard and collision dection.|
+  
 **_4.code snipped_**
 ```python
 #create game display
