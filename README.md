@@ -15,7 +15,7 @@
   
 **_3.pygame basic_**:
     |name|description|
-    |:-----:|:--------:|
+    |:-----:|:-----:|
     | _1.py_ |create my game surfance，game loop and darwing.|
     | _2.py_ |blit text,font,sound,and,image objects.     |  
     | _3.py_ |getting user keyboard and collision dection.|
