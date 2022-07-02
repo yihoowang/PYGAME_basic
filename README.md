@@ -39,4 +39,5 @@ player_rect.centery=WINDOW_HIGHT//2
  **_5.game assets:_**
    *.[icon archive:](https://iconarchive.com/)網站提供角色下載<br>
    *.[leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/)網站可以載遊戲特效，也可以簡單自己製音效
- <img src="
+ 
+ <img src="https://github.com/yihoowang/PYGAME_basic/blob/main/1.PNG" width="400" height="300" <br>
