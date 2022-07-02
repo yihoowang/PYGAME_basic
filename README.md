@@ -1,7 +1,10 @@
-# python_game
-### 用pygame moudule 自己創造的小遊戲
-*pygame page http://pygame.org
-*documentation:http://pygame.org/docs/ref/
+# python_game:用pygame moudule 自己創造的小遊戲
+
+ 1.**參考資料**
+  1.pygame page http://pygame.org
+  2.documentation:http://pygame.org/docs/ref/
+  3.Icon Archive:https://iconarchive.com/(下載角色)
+  
   ------
 *What is pygame:
   * pygame提供display,sound,image,text,event幫助製作遊戲
